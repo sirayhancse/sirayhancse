@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SAIFUL ISLAM RAYHAN
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saiful Islam Rayhan
 ===========================================================================================================================================
 
-SOFTWARE ENGINEER
+SR. SOFTWARE ENGINEER
 -----------------
 
-I am a Software Engineer with extensive experience and management skills. As a Software engineer, I am responsible for designing, developing, maintaining, testing, and evaluating software & Solutions built for our valued clients. I have vast experience in Python & Cloud Computing\[AWS\]. My research area covers Cloud Computing, Python Web Development, IoT, and Robotics. I love to talk about coding and problem-solving. My most interest is in the intersection of code, design, and new technologies. I studied Bachelor in Computer Science and Engineering at Southeast University, Dhaka.
+With over 7 years of experience, I specialize in building backend applications and cloud infrastructure, primarily using AWS, Python, and Terraform. My expertise spans Cloud Computing (AWS), Data Engineering and Automation, Large Language Models (LLM), Omnichannel Contact Centers, and Backend Application Development. I am passionate about coding and problem-solving, particularly where these intersect with designing infrastructure and exploring new technologies. I hold a bachelor's degree in Computer Science and Engineering from Southeast University, Dhaka.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sirayhan/)
