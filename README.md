@@ -7,7 +7,7 @@ SR. SOFTWARE ENGINEER
 With over 7 years of experience, I specialize in building backend applications and cloud infrastructure, primarily using AWS, Python, and Terraform. My expertise spans Cloud Computing (AWS), Data Engineering and Automation, Large Language Models (LLM), Omnichannel Contact Centers, and Backend Application Development. I am passionate about coding and problem-solving, particularly where these intersect with designing infrastructure and exploring new technologies. I hold a bachelor's degree in Computer Science and Engineering from Southeast University, Dhaka.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sirayhan/)
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sirayhan_cse/)
 * ✉️  You can contact me at [sirayhancse@gmail.com](mailto:sirayhancse@gmail.com)
 
 <a href="https://www.twitter.com/sirayhan" target="_blank" rel="noreferrer"><img
